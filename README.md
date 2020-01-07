@@ -3,22 +3,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 
-- ### Artificial Intelligence
-
-	- [Blind Search Techniques](https://github.com/srmanj/Artificial-Intelligence-Blind-Search-Problems): This implementation models blind search algorithms in AI like BFS, DFS to find path in a given state space. Similar to N-Queens and Path finding problems.
-
-	- [Heuristic Search Techniques](https://github.com/srmanj/Artificial-Intelligence-Heuristic-Search): An implementation that models informed search solutions for problems like 15-Puzzle, Route Optimization and Knapsack.
-
-	- [Geographical Routing](https://github.com/srmanj/Artificial-Intelligence-Route-Optimizer-between-Cities): Implemented heuristic search technique for geographical routing and achieved results similar to Google Maps.
-
-	- [Adversarial Games](https://github.com/srmanj/Artificial-Intelligence-2048-Adversarial-game): Implemented similar game to 2048 and designed an AI to play against a human or AI opponent using Minimax Algorithm using empty tile heuristic.
-
-	- [CV - Geotagging using Viterbi Algorithm](https://github.com/srmanj/Artificial-Intelligence-geotagging-using-Viterbi): This implementation tackles a classic problem in computer vision to identify where on Earth a photo was taken using visual features alone (e.g., not using GPS or Geotags). It tries to geolocate such photos by extracting the horizon (the boundary between the sky and the mountains) and using this as a “fingerprint” and match with a digital elevation map to identify where the photo was taken. Here the Viterbi algorithm was used to probabilistically identify the best sequence if pixels that lie on the horizon.
-
-	- [NLP - Part of Speech Tagging](https://github.com/srmanj/Artificial-Intelligence-Part-Of-Speech-Tagging): One of the first steps towards extracting semantics from natural language text is part of speech tagging.This exercise implements Hidden Markov Model, Hidden Markov Model with Viterbi and Gibbs Sampling in order to identify part of speech for a text.
-
-	- [NLP - Code Breaking](https://github.com/srmanj/Artificial-Intelligence-Code-Breaking): Designed and implemented a decryption system using Hidden Markov Model and Metropolis-Hastings Algorithm and achieved a decryption accuracy of 96%
-
 - ### Machine Learning
 
 	- [Naive Bayes from Scratch](https://github.com/srmanj/Artificial-Intelligence-Naive-Bayes-Classifier): Designed a spam/ham classifier using a bag of words model and implemented Naive Bayes algorithm from scratch.
@@ -41,6 +25,23 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Dropout with a value of 0.2
 		- Output layer, using softmax as the activation function
 	and using categorical cross entropy as its loss function and gradient descent using RMSProp to predict the accurate clases on the Fashion MNSIT data-set 
+
+- ### Artificial Intelligence
+
+	- [Blind Search Techniques](https://github.com/srmanj/Artificial-Intelligence-Blind-Search-Problems): This implementation models blind search algorithms in AI like BFS, DFS to find path in a given state space. Similar to N-Queens and Path finding problems.
+
+	- [Heuristic Search Techniques](https://github.com/srmanj/Artificial-Intelligence-Heuristic-Search): An implementation that models informed search solutions for problems like 15-Puzzle, Route Optimization and Knapsack.
+
+	- [Geographical Routing](https://github.com/srmanj/Artificial-Intelligence-Route-Optimizer-between-Cities): Implemented heuristic search technique for geographical routing and achieved results similar to Google Maps.
+
+	- [Adversarial Games](https://github.com/srmanj/Artificial-Intelligence-2048-Adversarial-game): Implemented similar game to 2048 and designed an AI to play against a human or AI opponent using Minimax Algorithm using empty tile heuristic.
+
+	- [CV - Geotagging using Viterbi Algorithm](https://github.com/srmanj/Artificial-Intelligence-geotagging-using-Viterbi): This implementation tackles a classic problem in computer vision to identify where on Earth a photo was taken using visual features alone (e.g., not using GPS or Geotags). It tries to geolocate such photos by extracting the horizon (the boundary between the sky and the mountains) and using this as a “fingerprint” and match with a digital elevation map to identify where the photo was taken. Here the Viterbi algorithm was used to probabilistically identify the best sequence if pixels that lie on the horizon.
+
+	- [NLP - Part of Speech Tagging](https://github.com/srmanj/Artificial-Intelligence-Part-Of-Speech-Tagging): One of the first steps towards extracting semantics from natural language text is part of speech tagging.This exercise implements Hidden Markov Model, Hidden Markov Model with Viterbi and Gibbs Sampling in order to identify part of speech for a text.
+
+	- [NLP - Code Breaking](https://github.com/srmanj/Artificial-Intelligence-Code-Breaking): Designed and implemented a decryption system using Hidden Markov Model and Metropolis-Hastings Algorithm and achieved a decryption accuracy of 96%
+
 
 - ### Data Analysis and Visualisation
 	<!-- - __Python__ -->
