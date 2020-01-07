@@ -3,28 +3,34 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 
+
+
+
 - ### Machine Learning
-
-	- [Naive Bayes from Scratch](https://github.com/srmanj/Artificial-Intelligence-Naive-Bayes-Classifier): Designed a spam/ham classifier using a bag of words model and implemented Naive Bayes algorithm from scratch.
-
-	- [Decision Trees from Scratch](https://github.com/srmanj/Machine-Learning-Algorithms-From-Scratch): Designed and implemented decision trees from scratch for image orientation classification and achieved an accuracy of 76%
-
-	- [Neural Network from Scratch](https://github.com/srmanj/Machine-Learning-Algorithms-From-Scratch): Designed and implemented Neural Network from scratch for image orientation classification and achieved an accuracy of 78%
-
-	- [K-Nearest Neighbours from Scratch](https://github.com/srmanj/Machine-Learning-Algorithms-From-Scratch): Designed and implemented decision trees from scratch for image orientation classification and achieved an accuracy of 72%
-
-	- [Linear Regression from Scratch](https://github.com/srmanj/Machine-Learning-Linear-Regression-from-Scratch/blob/master/A1_F19_vf.ipynb): Designed and implemented Linear Regression from scratch for predicting housing prices on the Boston data-set and achieved results similar to Sklearn
 
 	- [Bank Campaign Prediction](https://github.com/srmanj/Machine-Learning-bank-Campaign-Prediction/blob/master/Assignment2-F19.ipynb): Trained multiple variations of logistic regression with Ridge regression on the UCI Bank Marketing data-set to predict if a customer would be likely to subscribe to a term deposit or not
 
-	- [Neural Network Classifier from Scratch](https://github.com/srmanj/Machine-Learning-FashionMNSIT-Neural-Nets-From-Scratch/blob/master/Assignment_3_Modified.ipynb): Designed and Implemented a neural network classifier with the following architecture
-		- Input layer
-		- Dense hidden layer with 512 neurons, using relu as the activation function
-		- Dropout with a value of 0.2
-		- Dense hidden layer with 512 neurons, using relu as the activation function
-		- Dropout with a value of 0.2
-		- Output layer, using softmax as the activation function
-	and using categorical cross entropy as its loss function and gradient descent using RMSProp to predict the accurate clases on the Fashion MNSIT data-set 
+	- [Feature Engineering Exercise](https://github.com/srmanj/Data-Analysis-Visualization/blob/master/assignment4_F19.ipynb): This implementation attempts to improve model accuracy using only feature engineering techniques and benchmarks the results on Neural Nets, Random Forests, SVM and K Nearest neighbors 
+
+	- ### From Scratch Implementations -
+		- [Neural Network Classifier from Scratch](https://github.com/srmanj/Machine-Learning-FashionMNSIT-Neural-Nets-From-Scratch/blob/master/Assignment_3_Modified.ipynb): Designed and Implemented a neural network classifier with the following architecture
+			- Input layer
+			- Dense hidden layer with 512 neurons, using relu as the activation function
+			- Dropout with a value of 0.2
+			- Dense hidden layer with 512 neurons, using relu as the activation function
+			- Dropout with a value of 0.2
+			- Output layer, using softmax as the activation function
+		and using categorical cross entropy as its loss function and gradient descent using RMSProp to predict the accurate clases on the Fashion MNIST data-set 
+
+		- [Naive Bayes from Scratch](https://github.com/srmanj/Artificial-Intelligence-Naive-Bayes-Classifier): Designed a spam/ham classifier using a bag of words model and implemented Naive Bayes algorithm from scratch.
+
+		- [Decision Trees from Scratch](https://github.com/srmanj/Machine-Learning-Algorithms-From-Scratch): Designed and implemented decision trees from scratch for image orientation classification and achieved an accuracy of 76%
+
+		- [Neural Network from Scratch](https://github.com/srmanj/Machine-Learning-Algorithms-From-Scratch): Designed and implemented Neural Network from scratch for image orientation classification and achieved an accuracy of 78%
+
+		- [K-Nearest Neighbours from Scratch](https://github.com/srmanj/Machine-Learning-Algorithms-From-Scratch): Designed and implemented decision trees from scratch for image orientation classification and achieved an accuracy of 72%
+
+		- [Linear Regression from Scratch](https://github.com/srmanj/Machine-Learning-Linear-Regression-from-Scratch/blob/master/A1_F19_vf.ipynb): Designed and implemented Linear Regression from scratch for predicting housing prices on the Boston data-set and achieved results similar to Sklearn
 
 - ### Artificial Intelligence
 
@@ -41,8 +47,3 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [NLP - Part of Speech Tagging](https://github.com/srmanj/Artificial-Intelligence-Part-Of-Speech-Tagging): One of the first steps towards extracting semantics from natural language text is part of speech tagging.This exercise implements Hidden Markov Model, Hidden Markov Model with Viterbi and Gibbs Sampling in order to identify part of speech for a text.
 
 	- [NLP - Code Breaking](https://github.com/srmanj/Artificial-Intelligence-Code-Breaking): Designed and implemented a decryption system using Hidden Markov Model and Metropolis-Hastings Algorithm and achieved a decryption accuracy of 96%
-
-
-- ### Data Analysis and Visualisation
-	<!-- - __Python__ -->
-	- [Feature Engineering Exercise](https://github.com/srmanj/Data-Analysis-Visualization/blob/master/assignment4_F19.ipynb): This implementation attempts to improve model accuracy using only feature engineering techniques and tests the same on Neural Nets, Random Forests, SVM and K Nearest neighbours 
