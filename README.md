@@ -47,3 +47,8 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [NLP - Part of Speech Tagging](https://github.com/srmanj/Artificial-Intelligence-Part-Of-Speech-Tagging): One of the first steps towards extracting semantics from natural language text is part of speech tagging.This exercise implements Hidden Markov Model, Hidden Markov Model with Viterbi and Gibbs Sampling in order to identify part of speech for a text.
 
 	- [NLP - Code Breaking](https://github.com/srmanj/Artificial-Intelligence-Code-Breaking): Designed and implemented a decryption system using Hidden Markov Model and Metropolis-Hastings Algorithm and achieved a decryption accuracy of 96%
+	
+	
+
+- ### Kaggle
+	- [APTOS 2019 Blindness Detection](https://github.com/srmanj/kaggle/blob/master/APTOS%20Blindness%20Detection/APTOS%20Diabetic%20Retinopathy.ipynb): This implementation demonstrates a baseline implementation of a CNN (Resnet 50) in order to classify the severity of Diabetic retinopathy 
